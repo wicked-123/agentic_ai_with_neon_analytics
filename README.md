@@ -335,8 +335,8 @@ Returns all historical broadcast cards so the dashboard hydrates immediately on 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sinister-monk/ai-data-analytics.git
-cd ai-data-analytics
+git clone https://github.com/wicked-123/agentic_ai_with_neon_analytics.git
+cd agentic_ai_with_neon_analytics
 ```
 
 ### 2. Configure Environment Variables
