@@ -28,7 +28,7 @@
 - [📡 API Reference](#-api-reference)
 - [⚡ Quickstart & Setup Guide](#-quickstart--setup-guide)
 - [🐳 Docker & Cloud Deployment](#-docker--cloud-deployment)
-- [📄 License](#-license)
+
 
 ---
 
