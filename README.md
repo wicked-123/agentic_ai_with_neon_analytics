@@ -398,7 +398,4 @@ The included `render.yaml` enables instant continuous deployment:
 2. Set `DATABASE_URL` and `OPENAI_API_KEY` in Render’s Environment Variables settings.
 3. Deploy the web service directly.
 
----
 
-## 📄 License
-This project is open-source and released under the [MIT License](LICENSE).
